@@ -1,4 +1,12 @@
 
+![image](https://github.com/user-attachments/assets/e466a736-03ef-43d1-851b-1af5d5bd0019)
+![image](https://github.com/user-attachments/assets/7490416b-f33d-47ab-ba49-75d183c9cc30)
+![image](https://github.com/user-attachments/assets/f5a22d44-d9f8-4dda-8306-7b47985a9b54)
+![image](https://github.com/user-attachments/assets/c3b6f1ff-e781-4840-ae7e-9ea76ae5bc10)
+
+
+
+
 # English
 
 # CubeBlockCore 📚💻
