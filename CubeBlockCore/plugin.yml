@@ -1,0 +1,8 @@
+name: CubeBlockCore
+version: 1.5.0
+main: phpcube\CubeBlockCore
+api: 5.0.0
+author: vk.com/phpcube
+permissions:
+  coreitem.use:
+    default: op
